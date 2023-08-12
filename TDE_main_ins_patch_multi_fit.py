@@ -21,7 +21,7 @@ OBJ_CONF = 0.4  #
 
 #   YOLOv3
 cfgfile = "cfg/yolov3-dota.cfg"
-weightfile = "/mnt/share1/tangguijian/DOTA_YOLOv3_patch_AT/weights/yolov3-dota_110000.weights"
+weightfile = "yolov3-dota_110000.weights"
 
 #   Faster R-CNN
 
